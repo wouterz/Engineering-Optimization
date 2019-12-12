@@ -1,0 +1,20 @@
+single_obj_ga
+
+                              Best       Max        Stall
+Generation  Func-count        f(x)     Constraint  Generations
+    1            573    0.00112778            0      0
+    2           1096    0.00111863            0      0
+    3           1619    0.00110725            0      0
+    4           2142    0.00109807            0      0
+    5           2665    0.00109321            0      0
+Optimization terminated: average change in the fitness value less than options.FunctionTolerance
+ and constraint violation is less than options.ConstraintTolerance.
+
+x =
+
+   84.4504    9.9299   99.9583    0.9560    0.6921
+
+
+fval =
+
+    0.0011
